@@ -1,1 +1,15 @@
-{}
+{
+  "color": {
+    "bg": { "value": "#fdfcfb", "type": "color" },
+    "text": { "value": "#1c1b1a", "type": "color" },
+    "muted": { "value": "#5f5b57", "type": "color" },
+    "border": { "value": "#1f1f1f00", "type": "color" },
+    "surface": { "value": "#f2eeea", "type": "color" },
+    "accent": { "value": "#1c1b1a", "type": "color" },
+    "interactive": {
+      "hover": { "value": "#141312", "type": "color" },
+      "active": { "value": "#0a0a09", "type": "color" },
+      "disabled": { "value": "#5f5b57", "type": "color" }
+    }
+  }
+}
