@@ -1,5 +1,0 @@
-# Doctrine
-
-Non-negotiable principles and definitions.
-This is the “why” and the “measure,” not UI.
-Skins must not override this.
