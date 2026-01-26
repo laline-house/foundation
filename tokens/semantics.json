@@ -1,1 +1,59 @@
-{}
+{
+  "role": {
+    "body": {
+      "family": { "value": "{type.family.base}" },
+      "size": { "value": "{type.size.2}" },
+      "lineHeight": { "value": "{type.lineHeight.2}" },
+      "weight": { "value": "{type.weight.regular}" },
+      "tracking": { "value": "{type.tracking.normal}" }
+    },
+    "meta": {
+      "family": { "value": "{type.family.base}" },
+      "size": { "value": "{type.size.1}" },
+      "lineHeight": { "value": "{type.lineHeight.1}" },
+      "weight": { "value": "{type.weight.regular}" },
+      "tracking": { "value": "{type.tracking.normal}" }
+    },
+    "title": {
+      "family": { "value": "{type.family.base}" },
+      "size": { "value": "{type.size.3}" },
+      "lineHeight": { "value": "{type.lineHeight.1}" },
+      "weight": { "value": "{type.weight.medium}" },
+      "tracking": { "value": "{type.tracking.tight}" }
+    },
+    "display": {
+      "family": { "value": "{type.family.base}" },
+      "size": { "value": "{type.size.3}" },
+      "lineHeight": { "value": "{type.lineHeight.1}" },
+      "weight": { "value": "{type.weight.regular}" },
+      "tracking": { "value": "{type.tracking.normal}" }
+    }
+  },
+  "stack": {
+    "1": { "value": "{space.2}" },
+    "2": { "value": "{space.4}" },
+    "3": { "value": "{space.6}" },
+    "4": { "value": "{space.8}" }
+  },
+  "section": {
+    "pad": {
+      "x": { "value": "{space.6}" },
+      "y": { "value": "{space.8}" }
+    },
+    "max": { "value": 960, "type": "dimension" }
+  },
+  "pattern": {
+    "divider": {
+      "gap": { "value": "{space.5}" }
+    },
+    "intro": {
+      "gap": { "value": "{stack.3}" }
+    },
+    "reading": {
+      "gap": { "value": "{stack.2}" }
+    },
+    "callout": {
+      "gap": { "value": "{stack.4}" }
+    }
+  }
+}
