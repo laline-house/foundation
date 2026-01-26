@@ -1,1 +1,20 @@
-{}
+{
+  "color": {
+    "bg": { "value": "#0e0e0e", "type": "color" },
+    "text": { "value": "#f6f2ec", "type": "color" },
+    "muted": { "value": "#b8b8b8", "type": "color" },
+    "border": { "value": "#2b2b2b00", "type": "color" },
+    "surface": { "value": "#141414", "type": "color" },
+    "accent": { "value": "#f6f2ec", "type": "color" },
+    "interactive": {
+      "hover": { "value": "#ffffff", "type": "color" },
+      "active": { "value": "#d4d0ca", "type": "color" },
+      "disabled": { "value": "#b8b8b8", "type": "color" }
+    }
+  },
+  "elevation": {
+    "sm": { "value": "0 1px 2px 0 rgba(0,0,0,0.3)", "type": "shadow" },
+    "md": { "value": "0 4px 6px -1px rgba(0,0,0,0.4)", "type": "shadow" },
+    "lg": { "value": "0 10px 15px -3px rgba(0,0,0,0.5)", "type": "shadow" }
+  }
+}
